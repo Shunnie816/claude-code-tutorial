@@ -2,3 +2,6 @@ node_modules
 dist
 .env
 .env.local
+
+## claude settings
+settings.local.json
